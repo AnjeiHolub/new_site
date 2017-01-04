@@ -1,0 +1,95 @@
+body {
+  font-family: "Lato", sans-serif;
+  font-weight: 100;
+  color: white;
+  height: 100%;
+  font-size: 30px;
+}
+
+header {
+  background-image: url("images/background.jpg");
+  background-position: top center;
+  background-size: cover;
+  height: 100%;
+  padding: 50px;
+}
+
+.logo {
+  text-align: center;
+}
+
+.img__logo {
+  width: 120px;
+  height: 80px;
+  margin-left: 50px;
+}
+
+.top_header {
+  text-align: center;
+  margin-top: 50px;
+}
+
+.main_text p {
+  margin: 10px 0;
+  font-weight: 600;
+}
+
+.second_text {
+  font-size: 20px;
+  width: 350px;
+  margin: 0 auto;
+}
+
+.second_text p {
+  margin: 10px 0;
+  font-weight: 300;
+}
+
+.follow_img {
+  width: 20px;
+  height: 19px;
+  float: left;
+  cursor: pointer;
+}
+
+.follow {
+  margin: 50px auto 150px auto;
+  width: 80px;
+}
+
+.follow_img img {
+  display: block;
+  width: 100%;
+  position: relative;
+  top: 3px;
+}
+.follow_text {
+  float: right;
+  line-height: 15px;
+  cursor: pointer;
+}
+
+.follow_text a {
+  color: white;
+  font-weight: 300;
+  font-size: 15px;
+}
+
+.left_bottom_header {
+  font-size: 20px;
+  float: left;
+}
+
+.right_bottom_header {
+  float: right;
+  font-size: 20px;
+  width: 450px;
+}
+
+.mail {
+  float: left;
+}
+
+.tel {
+  float: right;
+}
